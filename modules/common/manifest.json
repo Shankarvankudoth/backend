@@ -1,0 +1,7 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "Handles common miscellaneous functionality.",
+  "routes": ["./routes/document.routes.js","./routes/error.routes.js","./routes/noteTask.routes.js","./routes/profile.routes.js","./routes/task.routes.js"],
+  "dependencies": ["security"]
+}

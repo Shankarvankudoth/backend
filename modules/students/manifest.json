@@ -1,0 +1,7 @@
+{
+  "name": "students",
+  "version": "1.0.0",
+  "description": "Handles students functionality",
+  "routes": ["./routes/guardian.routes.js", "./routes/student.routes.js"],
+  "dependencies": ["security"]
+}

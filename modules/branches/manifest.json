@@ -1,0 +1,7 @@
+{
+  "name": "branches",
+  "version": "1.0.0",
+  "description": "handles branches functionality",
+  "routes": ["./routes/branch.routes.js","./routes/classroom.routes.js"],
+  "dependencies": ["security"]
+}

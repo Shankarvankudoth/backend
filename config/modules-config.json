@@ -1,0 +1,7 @@
+{
+  "core": ["security", "search", "notifications", "configuration"],
+  "modules": ["taskmanagement", "enquiries",  "branches", "fees", "courses", "schools","notifications","profile","schedules","subjects","feedback","administration","admissions",
+  "assessments","attendance","batches","branches","feedback"],
+  "enabledModules": ["taskmanagement", "enquiries",  "branches", "common", "fees", "courses", "schools","notifications","profile","schedules","subjects","feedback","administration",
+  "admissions","assessments","attendance","batches","branches","feedback"] 
+}

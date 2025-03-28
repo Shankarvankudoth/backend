@@ -1,0 +1,7 @@
+{
+  "name": "fees",
+  "version": "1.0.0",
+  "description": "Functionality of the fees module",
+  "routes": ["./routes/fees.routes.js","./routes/invoice.routes.js","./routes/payment.routes.js","./routes/unifiedPaymentMethod.routes.js"],
+  "dependencies": [ "search"]
+}

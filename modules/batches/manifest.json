@@ -1,0 +1,7 @@
+{
+  "name": "batches",
+  "version": "1.0.0",
+  "description": "<Functionality of the module.>",
+  "routes": ["./routes/batch.routes.js"],
+  "dependencies": [ "search"]
+}

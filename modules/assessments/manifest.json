@@ -1,0 +1,7 @@
+{
+  "name": "assessments",
+  "version": "1.0.0",
+  "description": "<Functionality of the module.>",
+  "routes": ["./routes/results.routes.js","./routes/worksheetsAndAssessments.routes.js","./routes/marksCard.routes.js" ],
+  "dependencies": ["search"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Courses",
+  "version": "1.0.0",
+  "description": "Functionality of the courses module.>",
+  "routes": ["./routes/courses.routes.js"],
+  "dependencies": [ "notifications", "search"]
+}

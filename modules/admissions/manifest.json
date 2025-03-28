@@ -1,0 +1,7 @@
+{
+  "name": "admissions",
+  "version": "1.0.0",
+  "description": "<Functionality of the module.>",
+  "routes": ["./routes/admission.routes.js"],
+  "dependencies": ["search"]
+}

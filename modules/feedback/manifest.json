@@ -1,0 +1,7 @@
+{
+  "name": "feedback",
+  "version": "1.0.0",
+  "description": "<Functionality of the module.>",
+  "routes": [ "./routes/feedback.routes.js","./routes/ptm.routes.js" ],
+  "dependencies": ["<dependency model names>", "search"]
+}

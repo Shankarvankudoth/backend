@@ -1,0 +1,11 @@
+{
+  "name": "taskmanagement",
+  "version": "1.0.0",
+  "description": "Handles task management functionality.",
+  "routes": [
+    "/routes/project.routes.js",
+    "/routes/task.routes.js",
+    "/routes/taskmanagement.routes.js"
+  ],
+  "dependencies": ["security", "notifications", "search"]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "schools",
+  "version": "1.0.0",
+  "description": "Functionality of the Schools module.",
+  "routes": ["./routes/school.routes.js"],
+  "dependencies": ["security", "notifications", "search"]
+}

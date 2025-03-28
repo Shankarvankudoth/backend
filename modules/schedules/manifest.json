@@ -1,0 +1,7 @@
+{
+  "name": "schedules",
+  "version": "1.0.0",
+  "description": "<Functionality of the module.>",
+  "routes": ["./routes/leave.routes.js", "./routes/announcement.routes.js","./routes/calendar.routes.js","./routes/schedule.routes.js"],
+  "dependencies": [ "search"]
+}

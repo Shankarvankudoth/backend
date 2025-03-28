@@ -1,0 +1,7 @@
+{
+  "name": "enquiries",
+  "version": "1.0.0",
+  "description": "Handles enquiries functionality.",
+  "routes": ["./routes/enquiries.routes.js"],
+  "dependencies": ["security"]
+}

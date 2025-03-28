@@ -1,0 +1,7 @@
+{
+  "name": "subjects",
+  "version": "1.0.0",
+  "description": "Functionality of the subjects module ",
+  "routes": ["./routes/subject.routes.js","routes/book.routes.js"],
+  "dependencies": ["search"]
+}

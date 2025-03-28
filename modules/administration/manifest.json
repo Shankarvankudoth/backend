@@ -1,0 +1,7 @@
+{
+  "name": "adminstration",
+  "version": "1.0.0",
+  "description": "<Functionality of the module.>",
+  "routes": ["./routes/expenses.routes.js","./routes/inventory.routes.js"],
+  "dependencies": ["search"]
+}

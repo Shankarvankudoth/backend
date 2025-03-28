@@ -1,0 +1,11 @@
+{
+  "name": "security",
+  "version": "1.0.0",
+  "description": "Handles authentication and authorization management functionality.",
+  "routes": [
+     "/routes/user.routes.js",
+    "/routes/authentication.routes.js",
+    "/routes/roles.routes.js"
+  ],
+  "dependencies": []
+}

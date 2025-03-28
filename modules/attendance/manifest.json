@@ -1,0 +1,7 @@
+{
+  "name": "attendance",
+  "version": "1.0.0",
+  "description": "<Functionality of the module.>",
+  "routes": ["./routes/attendance.routes.js"],
+  "dependencies": [ "search"]
+}
